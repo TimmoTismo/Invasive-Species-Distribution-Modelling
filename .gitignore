@@ -1,6 +1,7 @@
 Digimap
 Datasets
 QGIS Projects
+env
 
 *.csv
 *.zip
